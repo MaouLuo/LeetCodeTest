@@ -1,3 +1,6 @@
+//返回两数和等于给定数的数组项下标
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
