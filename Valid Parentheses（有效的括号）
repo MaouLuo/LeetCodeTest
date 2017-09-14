@@ -46,8 +46,7 @@ public:
                     }                    
                     break;
                 default:break;
-                }
-            
+                }            
             }
         }
         return str.size() == 0 ? true : false;
